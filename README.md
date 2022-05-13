@@ -11,10 +11,10 @@ print('Hello, Word!');
 - :dart: Muito foco, atualmente estudando Python
 - :coffee: Muito café
 
-<div>
+<div align="center">
 <a href="https://github.com/RonalddMatias">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RonalddMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RonalddMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div>
