@@ -8,7 +8,7 @@ print('Hello, Word!');
 ### About Me
 - :earth_americas: Campina Grande - Paraíba
 - :man_technologist: i love to program
-- :dart: Muito foco, atualmente estudando Python
+- :dart: Muito foco, atualmente estudando Java
 - :coffee: Muito café
 
 <div align="center">
