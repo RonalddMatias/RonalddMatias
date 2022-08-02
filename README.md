@@ -4,8 +4,6 @@
 
 Atualmente faço a graduação em Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Busco estudar diaramente para ingressar no mercado de Trabalaho.
 
-## 💫 Liitle Bit More About Me
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -22,6 +20,8 @@ Atualmente faço a graduação em Ciência da Computação na Universidade Feder
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=RonalddMatias&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact"><p>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonalddMatias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&langs_count=7&theme=dracula"/>
+</div>
