@@ -20,11 +20,6 @@ Atualmente faço a graduação em Ciência da Computação na Universidade Feder
 <a href="https://www.instagram.com/https://www.instagram.com/ronalddmatias/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=RonalddMatias">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=RonalddMatias&show_icons=true"><p>
