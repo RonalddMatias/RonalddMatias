@@ -1,8 +1,6 @@
-# Hi there 👋, My name is Ronaldd Matias
-
 <img width="100%" src="https://i.ibb.co/NymY9WB/github-header-image.png" alt="my banner">
 
-Atualmente faço a graduação em Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Busco estudar diaramente para ingressar no mercado de trabalho.
+# Atualmente faço a graduação em Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Busco estudar diaramente para ingressar no mercado de trabalho.
 
 ## 💻 Skills
 <p>
