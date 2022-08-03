@@ -1,6 +1,6 @@
 <img width="100%" src="https://i.ibb.co/NymY9WB/github-header-image.png" alt="my banner">
 
-Atualmente faço a graduação em Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Busco estudar diaramente para ingressar no mercado de trabalho.
+Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Estou buscando estudar diaramente para ter uma oportunidade no mercado de trabalho o quanto antes, não vejo a hora disso acontecer!
 
 ## 💻 Skills
 <p>
