@@ -21,6 +21,5 @@ Atualmente curso Ciência da Computação na Universidade Federal de Campina Gra
 
 <div >
   <a href="https://github.com/RonalddMatias">
-  <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=RonalddMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&langs_count=7&theme=dark"/>
 </div>
