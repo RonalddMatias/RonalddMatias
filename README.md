@@ -23,3 +23,5 @@ Atualmente curso Ciência da Computação na Universidade Federal de Campina Gra
   <a href="https://github.com/RonalddMatias">
   <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+[![@ronaldd's Holopin board](https://holopin.io/api/user/board?user=ronaldd)](https://holopin.io/@ronaldd)
