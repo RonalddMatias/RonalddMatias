@@ -1,5 +1,3 @@
-<img width="100%" src="https://i.ibb.co/NymY9WB/github-header-image.png" alt="my banner">
-
 Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Estou buscando estudar diaramente para obter mais conhecimento acerca do mundo da programação.
 
 ## 💻 Skills
