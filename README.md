@@ -1,4 +1,4 @@
-Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Estou buscando estudar diaramente para obter mais conhecimento acerca do mundo da programação.
+Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG).
 
 ## 👥 Connect With Me
 <p>
