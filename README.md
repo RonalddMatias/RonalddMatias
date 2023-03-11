@@ -1,15 +1,26 @@
-Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG).
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8F24F7FF&height=120&section=header"/>
 
-## 👥 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/ronaldd-matias-761055171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/ronalddmatias/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href = "mailto:ronaldd.feliph1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30px" target="_blank"></a>
+<div align="center">  
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F24F7&width=435&lines=I'm+Ronaldd+Matias;Computer+Science+Student;Be+Welcome!" alt="Typing SVG" /></a>
+
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+  
+ <!--- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&hide_border=true&title_color=&text_color=00bfbf&bg_color=0d1117" />
+</div>
+--->
+ 
+  [![jhenriqueax's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RonalddMatias&theme=modern-lilac&hide_border=true&area=true)](https://github.com/RonalddMatias/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RonalddMatias&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## 📊 Github Status
-
-<div >
-  <a href="https://github.com/RonalddMatias">
-  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&langs_count=7&theme=dark"/>
-</div>
+   <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RonalddMatias}/count.svg" /></p> 
+<br></div>
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8F24F7FF&height=120&section=footer"/>
