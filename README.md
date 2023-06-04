@@ -22,9 +22,5 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
-   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RonalddMatias}/count.svg" /></p> 
-<br></div>
   
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F24F7FF&height=120&section=footer"/>
