@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F24F7FF&height=120&section=header"/>
 
 <div align="center">  
 
@@ -20,7 +19,4 @@
   <img align="center" alt="Rona-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-
-  
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F24F7FF&height=120&section=footer"/>
+</div> 
