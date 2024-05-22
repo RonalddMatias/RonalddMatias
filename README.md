@@ -1,13 +1,17 @@
-
-<div align="center">  
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F24F7&width=435&lines=I'm+Ronaldd+Matias;Computer+Science+Student;Be+Welcome!" alt="Typing SVG" /></a>
- 
-<div>
-<a href="https://github.com/RonalddMatias">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&langs_count=7&theme=midnight-purple"/>
+<h2 align="center"> Hello! I'm Ronaldd</h2>
+<div>  
+<a>
+ I'm a computing student at UFCG. I've always been very curious, especially when it comes to technology. I'm a nice person who finds it easy to work in a team and enjoys new challenges. I also like football, reading and the gym.
+</a>
 </div>
- 
+
+<hr>
+
+<div aling="center"> 
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RonalddMatias&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="RonalddMatias's GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonalddMatias&layout=compact&hide_border=true&theme=midnight-purple" alt="Top Languages" />
+</div>
+
  <hr>
  
  </div>
@@ -19,3 +23,9 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div> 
+
+<h2>Connect with me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ronaldd-matias-761055171/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.instagram.com/ronalddmatias/?hl=pt-br"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
